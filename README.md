@@ -6,3 +6,4 @@ For now, I know :
 3. JavaScript
 4. Repl
 5. Chalk NPM
+6. Netlify
