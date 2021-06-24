@@ -1,1 +1,1 @@
-This is my irst time working on Git and Github!
+This is my first time working on Git and Github!
